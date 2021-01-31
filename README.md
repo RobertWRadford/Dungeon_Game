@@ -1,2 +1,3 @@
 # Dungeon_Game
-All versions of Dungeon_Game
+
+This is an incomplete project, and is wrought with a plethora of issues in both game-balance and coding, but was built as I first learned Python as a language looking things up as I went and is also technically my first game I ever coded out. I also made this with a set in place restriction that all I could look up, import, and reference was core language methods/tools, as an example I could look up how to use enumerate in Python but not look up guides for specific tasks such as getting monsters to hunt a player through a maze with something like the aStar method, so I had to be creative and make my own methodology. It's far from good but I'm proud of it in a number of ways regardless and hope to find the time to come back and compelte it / recreate it in a more enjoyable playstyle.
